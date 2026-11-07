@@ -1,0 +1,5 @@
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Keras model checkpoints
+*.keras
